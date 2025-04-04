@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sowmya-hub05
+- 👋 Hi, I’m @Sowmya
 - 👀 I’m interested in Creating Web Applications
 - 🌱 I’m currently learning Full stack development
 - 😄 Pronouns: She,Her
